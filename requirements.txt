@@ -9,3 +9,4 @@ jupyter
 yfinance
 duckduckgo_search
 pywin32
+ddgs
