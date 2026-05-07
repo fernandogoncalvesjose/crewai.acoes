@@ -108,3 +108,45 @@ O foco deste projeto não é apenas analisar ações, mas mostrar como usar `cre
 ---
 
 Este projeto serve como base para criar fluxos de automação de análise de investimentos usando agentes inteligentes e dados reais de mercado.
+
+---
+
+### Exemplo
+
+---
+
+# Relatório de Investimento – Ações PETR4.SA
+
+## Introdução
+
+O objetivo deste relatório é apresentar uma análise clara e objetiva sobre a recomendação de investimento nas ações PETR4.SA, considerando o desempenho recente, o cenário atual e as notícias relevantes que influenciam o valor dessas ações. Com base na avaliação do analista chefe, explicaremos os motivos para a recomendação de venda parcial e manutenção das ações restantes.
+
+## Análise de Preço
+
+Você possui atualmente 150 ações da PETR4.SA adquiridas a um preço médio de R$ 27,50 por ação. O preço atual dessas ações é de R$ 47,00, o que representa uma valorização expressiva de aproximadamente 70%. Essa alta significativa indica que o investimento teve um bom desempenho até o momento.
+
+Além disso, a tendência das ações ainda é positiva, sustentada por um mercado de energia favorável. O setor tem apresentado bom fluxo e a Petrobras conta com perspectivas econômicas robustas que podem continuar impulsionando o preço no futuro.
+
+## Análise de Notícias e Fatores Externos
+
+Diversos fatores recentes impactam positivamente as ações PETR4.SA:
+
+- **Investimentos Aumentados:** A Petrobras ampliou seus investimentos em exploração e infraestrutura, fortalecendo sua capacidade produtiva.
+- **Preços Elevados do Petróleo:** O mercado global registra preços do petróleo em níveis elevados, o que favorece a receita da empresa.
+- **Dividendos Consistentes:** A companhia tem mantido o pagamento regular de dividendos, beneficiando os acionistas com renda passiva.
+- **Avanços em Sustentabilidade:** Projetos e ações voltados à sustentabilidade reforçam a imagem da empresa e seu compromisso com práticas responsáveis, o que pode atrair mais investidores.
+
+Esses pontos criam um ambiente positivo para o valor das ações, contribuindo para sua valorização e suportando uma possível continuidade da alta.
+
+## Conclusão e Recomendação Final
+
+Considerando a valorização atual e o cenário favorável, a recomendação final é a seguinte:
+
+- **Venda Parcial:** Sugerimos vender 50% das suas ações atuais, ou seja, 75 ações. Isso permitirá realizar parte dos lucros conquistados, assegurando ganhos concretos, sem abrir mão do potencial futuro de valorização.
+- **Manutenção do Saldo:** Mantenha as outras 75 ações em carteira para aproveitar possíveis novas altas conforme o mercado de energia permanece favorável e a Petrobras avança em seus projetos.
+
+Essa estratégia busca equilibrar a concretização dos ganhos atuais com a possibilidade de benefícios adicionais a médio e longo prazo.
+
+---
+
+Estamos à disposição para esclarecer dúvidas e auxiliar na execução desse plano de investimentos.
